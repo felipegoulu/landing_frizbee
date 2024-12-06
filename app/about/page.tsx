@@ -18,7 +18,7 @@ export default function Page() {
           </p>
 
           <p>
-            We&apos;re currently in development and excited to launch soon. Join our waitlist 
+            We are currently in development and excited to launch soon. Join our waitlist 
             to be among the first to experience the future of grocery shopping.
           </p>
         </div>
